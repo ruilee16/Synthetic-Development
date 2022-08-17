@@ -1,0 +1,54 @@
+  Page 1                                    Tue Aug 16 16:21:08 2022
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+   
+      Input Data File ................... temp.inp
+      Number of Junctions................ 9220
+      Number of Reservoirs............... 2
+      Number of Tanks ................... 0
+      Number of Pipes ................... 12433
+      Number of Pumps ................... 0
+      Number of Valves .................. 44
+      Headloss Formula .................. Hazen-Williams
+      Nodal Demand Model ................ DDA
+      Hydraulic Timestep ................ 1.00 hrs
+      Hydraulic Accuracy ................ 0.001000
+      Status Check Frequency ............ 2
+      Maximum Trials Checked ............ 10
+      Damping Limit Threshold ........... 0.000000
+      Maximum Trials .................... 200
+      Quality Analysis .................. None
+      Specific Gravity .................. 1.00
+      Relative Kinematic Viscosity ...... 1.00
+      Relative Chemical Diffusivity ..... 1.00
+      Demand Multiplier ................. 1.00
+      Total Duration .................... 0.00 hrs
+      Reporting Criteria:
+         No Nodes
+         No Links
+   
+  Analysis begun Tue Aug 16 16:21:08 2022
+
+  WARNING: PRV valve_2711810812 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_2711810993 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_238954260 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_239002880 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_238957668 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_239015625 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_238969902 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_238924930 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_238942755 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_238966156 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_2713374387 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_763628188 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_238986248 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: PRV valve_2707749497 open but cannot deliver pressure at 0:00:00 hrs.
+  WARNING: System unbalanced at 0:00:00 hrs. EXECUTION HALTED.
+   
+  Analysis ended Tue Aug 16 16:21:08 2022
